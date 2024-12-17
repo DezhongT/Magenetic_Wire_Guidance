@@ -1,0 +1,30 @@
+helixradius 0.01
+helixpitch 0.03
+rodRadius 1e-4
+RodLength 1.0
+youngM 10e9
+numVertices 100
+Poisson 0.5
+deltaTime 1e-2
+totalTime 62.0
+tol 1.0e-4
+stol 1.0e-4
+maxIter 10
+density 10000.0
+gVector 0.0 0.0 0.0
+baVector 0.0 0.0 0.0
+brVector 1000.0 0.0 0.0
+scaleRender 1.0
+speed 0.01
+stopTime 100.0
+tubeRadius 0.2
+caseOpt 1
+tubeThick 0.03
+muZero 0.01
+saveData 1
+dBar 0.002
+stiffness 0.1
+mu 0.0
+epsilonV -1.0
+viscosity 0.001
+render 1
