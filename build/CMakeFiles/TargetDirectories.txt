@@ -1,4 +1,0 @@
-/home/dezhongt/Desktop/Tube_Control/mag_tube_control/Mag_Tube_Control/build/CMakeFiles/optimizeDER.dir
-/home/dezhongt/Desktop/Tube_Control/mag_tube_control/Mag_Tube_Control/build/CMakeFiles/simDER.dir
-/home/dezhongt/Desktop/Tube_Control/mag_tube_control/Mag_Tube_Control/build/CMakeFiles/edit_cache.dir
-/home/dezhongt/Desktop/Tube_Control/mag_tube_control/Mag_Tube_Control/build/CMakeFiles/rebuild_cache.dir
